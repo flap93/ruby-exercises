@@ -1,5 +1,6 @@
 require 'spec_helper'
-require_relative '../exercises/string_exercises'
+require('./ruby_basics/1_data_types/exercises/string_exercises')
+
 
 RSpec.describe 'String Exercises' do
 
